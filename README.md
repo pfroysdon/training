@@ -1,0 +1,2 @@
+# training
+Seminars and Bootcamps
