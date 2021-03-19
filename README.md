@@ -19,8 +19,7 @@ This 2-hr seminar is for senior **technical** leadership.  In this short course 
 This 2-week boot camp is for aspiring data scientists. We will take each student from an introduction to Jupyter Notebooks and Python, to the state-of-the-art in Deep Learning.  Each section is organized with 30% lecture + 70% hands-on training.  Each student will develop a uniquely tailored Capstone Project and present it at the end of the course.
 
 ## Intermediate-Level Data Science Bootcamp
-This 1-week boot camp is for aspiring data scientists. We will take each student from an introduction to simple linear regression, to the state-of-the-art in Deep Learning. Each section is organized with 30% lecture + 70% hands-on training.  
-Each student will develop a uniquely tailored Capstone Project and present it at the end of the course.
+This 1-week boot camp is for aspiring data scientists. We will take each student from an introduction to simple linear regression, to the state-of-the-art in Deep Learning. Each section is organized with 30% lecture + 70% hands-on training.  Each student will develop a uniquely tailored Capstone Project and present it at the end of the course.
 
 ## Advanced-Level Data Science Bootcamp
 This 1-week boot camp is for advanced-level data scientists.  At the advanced-level, we will look at the theory and algorithms from the simple linear regression, to advanced topics, including deep-learning and Bayesian state estimation. Each section is organized with 30% lecture + 70% hands-on training. Each student will develop a uniquely tailored Capstone Project and present it at the end of the course.
@@ -45,6 +44,6 @@ I will teach you the algorithms, both how to manipulate and optimize them for yo
 With these powerful skills, you will be a technical leader enabling the full potential of a Data Science team.
 
 To get started, I recommend that you review the following:
-1. [ML technical notes](https://github.com/pfroysdon/books/blob/main/math_notes).
-2. ["Math Refresher for Machine Learning"](https://github.com/pfroysdon/books/tree/master/Math_Refresher_for_Machine_Learning).
-3. ["Machine Learning: A Conceptual Approach"](https://github.com/pfroysdon/books/tree/master/Machine_Learning_a_Conceptual_Approach).
+1. [ML technical notes](https://github.com/pfroysdon/publications/tree/main/Math_Notes).
+2. ["Math Refresher for Machine Learning"](https://github.com/pfroysdon/publications/tree/main/Math_Refresher_for_Machine_Learning).
+3. ["Machine Learning: A Conceptual Approach"](https://github.com/pfroysdon/publications/tree/main/Machine_Learning_a_Conceptual_Approach).
